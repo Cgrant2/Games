@@ -1,0 +1,38 @@
+_grass_ENCOUNTER:
+%0.06 probability
+*0    id#
+%0.06 probability
+*1    id#
+%0.06 probability
+*2    id#
+%0.06 probability
+*3    id#
+%0.06 probability
+*4    id#
+%0.06 probability
+*5    id#
+%0.06 probability
+*6    id#
+%0.06 probability
+*7    id#
+%0.06 probability
+*8    id#
+%0.06 probability
+*9    id#
+%0.06 probability
+*10   id#
+%0.06 probability
+*11   id#
+%0.06 probability
+*12   id#
+%0.06 probability
+*13   id#
+%0.14 probability
+*14   id#
+
+_matt_ENCOUNTER:
+%1.01 Battle Flag
+*3    Teamsize
+*12   Magnemite ID
+*13   Porygon   ID
+*14   Mudkip    ID

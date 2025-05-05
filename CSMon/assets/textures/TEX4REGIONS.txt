@@ -1,0 +1,19 @@
+TEX4_MENUS
+pointer start battle menu
+(30, 40)
+pointer start ovw menu
+(350, 165)
+pointer increment value
+50
+
+REGIONS
+Battle menu options region
+(1, 1) -> (167, 272)
+Battle menu moveset/bag region
+(169, 1) -> (335, 272)
+ovw menu
+(337, 110) -> (561, 272)
+textbox
+(1, 274) -> (609, 337)
+menu pointer
+(337, 95) -> (343, 108)

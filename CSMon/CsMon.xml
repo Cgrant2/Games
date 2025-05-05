@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<rom-definition version="1.0">
+    <rom type="cartridge" title="Cs Mon" version="1.0" />
+    <binary path="CsMon.vbin" />
+    <textures>
+        <texture path="./assets/textures/TEX0_PlayerOVWSprites.vtex" />
+        <texture path="./assets/textures/TEX1_TemporaryTileMapSprites.vtex" />
+        <texture path="./assets/textures/TEX2_Tilemap.vtex" />
+        <texture path="./assets/textures/TEX3_Pokemon.vtex" />
+        <texture path="./assets/textures/TEX4_MENUS.vtex" />
+        <texture path="./assets/textures/TEX5_FONT.vtex" />
+        <texture path="./assets/textures/TEX6_BattleBackground.vtex" />
+        <texture path="./assets/textures/TEX7_MATT.vtex" />
+    </textures>
+    <sounds>
+    <sound path="./assets/sounds/SND0_MattBoss.vsnd" />
+    </sounds>
+</rom-definition>

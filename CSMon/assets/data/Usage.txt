@@ -1,0 +1,16 @@
+All text after a space is exluded (may be used to make comments)
+
+Lines that begin with a '_' will be interperated as a raw line (used for labels)
+
+Lines that being with a '*' will be interperated as a single base 10 integer
+
+Lines that being with a '%' will be interperated as a single base 10 float
+
+Lines that being with a '&' will be interperated as a pointer to a lable
+
+Non blank lines will be interperated as a string of int data (used for mapping)
+  NOTE: each char is a seperate value. The current char to int mapping is
+   0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+   These values correspond to integers 0-61
+
+Blank lines will be left blank
